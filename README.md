@@ -11,4 +11,4 @@ This project was developed in the Alura course. It is a timer for students based
 
 Technologies used: HTML5, CSS, Bootstrap, Javascript.
 
-<img src="">
+<img src="fokus.jpg">
